@@ -1,5 +1,9 @@
 # beshkaf
 Shop Online Women's Clothing
-![beshkaf](https://github.com/farnushKazemi/beshkaf/assets/166836271/eca0c1d3-96e5-48de-9ad0-346dfe5bb617)
 
+![beshkaf](https://github.com/nushiKzm/beshkaf/assets/60428253/b83b89c1-1f81-44d4-905d-1d9df68c978e)
+
+How to use?
+first, you should run backend project.
+backend project is available in https://github.com/nushiKzm/beshkafback
 
